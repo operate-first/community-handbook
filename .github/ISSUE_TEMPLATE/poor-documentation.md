@@ -2,7 +2,7 @@
 name: Poor documentation
 about: Discovered documentation that is incorrect, faulty, or needs improvement
 title: ''
-labels: ''
+labels: 'area/contributor', 'kind/handbook'
 assignees: ''
 
 ---
