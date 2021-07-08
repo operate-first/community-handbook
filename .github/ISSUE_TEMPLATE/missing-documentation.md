@@ -2,7 +2,7 @@
 name: Missing documentation
 about: Discovered a task that lacks documentation
 title: ''
-labels: ''
+labels: 'area/contributor', 'kind/handbook'
 assignees: ''
 
 ---
