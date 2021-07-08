@@ -1,33 +1,36 @@
-# Operate First template for repositories
+# Community Handbook
 
-Derive new repositories from this template
+## Welcome to the Community Handbook for Operate First!
 
-List of featurese:
+The Community Handbook is intended to serve as a resource for all Operate First community contributors.
+It contains documentation on how to perform contributor-related tasks and encourages input and contributions from the community.
+The covenant of the Community Handbook is that if contributors must figure out a task for themselves, they should submit that solution to the handbook for the benefit of future contributors.
 
-## License
+## How to Contribute
 
-This template ensures new repos are created compliant with [ADR 0001](https://www.operate-first.cloud/blueprints/blueprint/docs/adr/0001-use-gpl3-as-license.md) and use GNU GPL v3 license.
+We welcome the Operate First community to contribute to the handbook!
+There are multiple ways to contribute:
+1. Create an issue in our [GitHub repository](https://github.com/operate-first/community-handbook)
+1. Create a pull request (PR) directly against the repository
+1. Label an issue or PR from another part of the project to identify as part of the Community Handbook
 
-## AI-CoE CI Github application
+After creating an issue or PR, assign it to the project ‘Community Handbook’.
+This will cause it to automatically appear in the Community Handbook [project board](https://github.com/orgs/operate-first/projects/20) as a card under the column ‘Proposed content’.
 
-AI-CoE CI provides easy and quick integration for build pipelines and checks for pull requests.
+Next, we will begin the process of improving the documentation.
+The card moves between columns as the editing and review process progresses; for details on how the review process works, including the criteria to move between columns, refer to the [reviewer guidelines](handbook_reviewer_guidelines.md).
 
-An empty [`.aicoe-ci.yaml`](.aicoe-ci.yaml) is created here, disabling all checks via this CI provider by default. Documentation can be found [here](https://github.com/AICoE/aicoe-ci/).
+### Creating an issue to contribute
+To create an issue, select ‘new issue’. If applicable, select the appropriate template:
+* The ‘Missing documentation’ template: if you have discovered a task for which no documentation currently exists in the handbook
+* The ‘Poor documentation’ template: if you have noticed any kind of errors or mistakes in existing documentation, or if you wish for existing documentation to improve in some way
+If neither of these templates apply, you can create an issue from scratch.
+If you’re interested in working on the solution, please assign yourself to the issue.
+Anyone who wishes to be involved in a particular issue may assign themselves to it.
 
-## Prow CI
+### Creating a pull request (PR) to contribute
 
-Prow is a CI provider developed for Kubernetes needs. Provides chat-ops management of pull requests, issues and declarative management for labels, branches and many more.
+If you’d like to prepare content for addition to the handbook, please use our [Article Template](article_template.md). To make a PR with this content, follow the directions [here](pr_process).
 
-We host our own deployment of Prow in Operate First available at [https://prow.operate-first.cloud/](https://prow.operate-first.cloud/).
-
-Supported commands are listed [here](https://prow.operate-first.cloud/command-help). We have also enabled Prow to consume on-repository configuration files. You can specify your config in [`.prow.yaml`](.prow.yaml). Additional centralized configuration can be found in the [thoth-application repository](https://github.com/thoth-station/thoth-application/tree/master/prow/overlays/cnv-prod).
-
-## Pre-commit
-
-By extension to Prow, we define a default pre-commit config for new repositories. Default hook configuration can be found in [`.pre-commit-config.yaml`](.pre-commit-config.yaml). Pre-commit is executed via Prow, see [`.prow.yaml`](.prow.yaml) for details.
-
-We enable yamllint hook by default, since most of our repositories use yaml files extensively. Default configuration for this hook is located at [`yamllint-config.yaml`](yamllint-config.yaml).
-
-To install and enable pre-commit locally please follow the instructions [here](https://pre-commit.com/#quick-start).
-
-It is advised for all contributors to enable pre-commit git hook via `pre-commit install` after cloning any repo within Operate First.
+### Labeling an issue or PR from another project to include in the Community Handbook
+TBD
