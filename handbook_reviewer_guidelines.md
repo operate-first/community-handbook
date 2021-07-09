@@ -6,7 +6,7 @@ This document contains the guidelines for anyone reviewing content for the Opera
 == Criteria for each column to progress to the next column:
 === To enter ‘Proposed content’
 - [ ] An issue or PR is made and assigned to the ‘Community Handbook’ project
-- [ ] To enter “Content in progress” (decider = reviewer)
+=== To enter “Content in progress” (decider = reviewer)
 - [ ] Full idea
 - [ ] For issues, template is completely filled out
 - [ ] Proposed idea is understood by a reviewer
