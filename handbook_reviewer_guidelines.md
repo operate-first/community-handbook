@@ -20,6 +20,6 @@ This document contains the guidelines for anyone reviewing content for the Opera
 - [ ] Content meets the [style guidelines](style_guide.md)
   - Complete has a lower standard than “complete” for user-facing documentation, as per the Community Handbook style guide.
 - [ ] Reviewer feels the content is complete/accurate and approves it
-=== To enter ‘Done’ (decider = editor/reviewer & writer)
+=== To enter ‘Done’ (decider = reviewer & writer)
 - [ ] The writer and reviewer both agree that this version of content is finished or good-enough and ready to publish
 - [ ] The content is merged to the Community Handbook repository
