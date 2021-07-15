@@ -4,8 +4,9 @@ I am attempting to use what seem like good ideas, but the content
 can always be ported to a standard template later.
 -->
 # How to use the `o1-clone` CLI tool for cloning an Operate First community repository
-_Author: Karsten Wade <kwade@redhat.com> <quaid@iquaid.org>
-[Document updated: 2021-07-13]_
+_Author: Karsten Wade <kwade@redhat.com> <quaid@iquaid.org>_<br/>
+_Date Created:  2021-07-13_<br/>
+_Date updated: N/A_<br/>
 <!-- Tags? -->
 
 This how-to for contributors shows you the steps for obtaining and using the small command line tool for cloning repositories.
