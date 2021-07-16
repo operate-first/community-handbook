@@ -1,23 +1,23 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
-  - durandom
-  - tumido
-  - HumairAK
+#  - durandom
+#  - tumido
+#  - HumairAK
   - quaid
   - margarethaley
 
 reviewers:
-  - durandom
-  - oindrillac
-  - tumido
-  - HumairAK
-  - 4n4nd
-  - harshad16
-  - hemajv
-  - goern
-  - HumairAK
-  - tumido
-  - larsks
+#  - durandom
+#  - oindrillac
+#  - tumido
+#  - HumairAK
+#  - 4n4nd
+#  - harshad16
+#  - hemajv
+#  - goern
+#  - HumairAK
+#  - tumido
+#  - larsks
   - quaid
   - margarethaley
