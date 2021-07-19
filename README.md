@@ -1,6 +1,6 @@
 # Operate First Community Handbook
 
-## Welcome to the xommunity handbook!
+## Welcome to the community handbook!
 
 The Community Handbook is intended to serve as a resource for all Operate First community contributors.
 It contains documentation on how to perform contributor-related tasks and encourages input and contributions from the community.
