@@ -1,5 +1,5 @@
 <!-- Title, author, date block standard in all files -->
-# Title (ex: How to Use `o1-clone` tool)
+# Title (ex: How to use `o1-clone` tool)
 *Author(s):*<br/>
 *Date Created: YYYY-MM-DD*<br/>
 *Date Updated: N/A or YYYY-MM-DD*<br/>
