@@ -6,6 +6,9 @@ If you're looking to become a handbook contributor but aren't sure where to star
 * Fix a typo by making a pull request (PR) against the repo
 * Flag documentation that is confusing or needs improvement: select **Issues** > **New issue** > **Poor documentation**
 * Create an issue for any documentation that should be added to the handbook: select **Issues** > **New issue** > **Missing documentation**
+* Work on [issue #67][10] in the community repo, which concerns auditing barriers to contribution.
+If you encounter anything in the project that prevents you from contributing, let us know.
+We want to lower these barriers as much as we can, so knowing about them is crucial!
 
 ## Resources
 
@@ -33,3 +36,4 @@ If you're looking to become a handbook contributor but aren't sure where to star
 [7]: https://www.operate-first.cloud/
 [8]: https://www.youtube.com/channel/UCe87bwqlGoBQs2RvMQZ5_sg
 [9]: https://twitter.com/OperateFirst
+[10]: https://github.com/operate-first/community/issues/67
