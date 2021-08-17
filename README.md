@@ -6,6 +6,10 @@ The Community Handbook is intended to serve as a resource for all Operate First 
 It contains documentation on how to perform contributor-related tasks and encourages input and contributions from the community.
 The covenant of the Community Handbook is that if contributors must figure out a task for themselves, they should submit that solution to the handbook for the benefit of future contributors.
 
+## How to use this handbook
+
+The [Community Handbook](https://github.com/operate-first/community-handbook/blob/main/README.md) table of contents is a good place to start.
+
 ## How to contribute
 
 We welcome the Operate First community to contribute to the handbook!
