@@ -8,7 +8,7 @@ The covenant of the Community Handbook is that if contributors must figure out a
 
 ## How to use this handbook
 
-The [Community Handbook](https://github.com/operate-first/community-handbook/blob/main/README.md) table of contents is a good place to start.
+The [Community Handbook table of contents](https://github.com/operate-first/community-handbook/blob/main/content/README.md) is a good place to start.
 
 ## How to contribute
 
