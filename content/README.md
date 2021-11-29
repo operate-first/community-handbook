@@ -17,6 +17,8 @@ The new [Community Handbook website](https://operate-first.cloud/community-handb
   - [How to request a new git repository](how-to-request-a-repository.md)
   - [How to use the community-centric labels for Issues and Pull Requests](how-to-use-community-centric-labels.md)
   - [How to use the `o10-clone` tool to clone an Operate First community repo](how-to-use-o1-clone-tool.md)
+  - [Adding a new software repository](https://github.com/operate-first/common/blob/main/docs/add_repo.md)
+  - [Adding GitHub members and managing repo access](https://github.com/operate-first/common/blob/main/docs/add_gh_member_and_access.md)
 - Contributing to the Community Handbook
   - [Beginner's guide to getting started as as contributor](../contributing/beginners-get-started.md)
   - [Content style guide](../contributing/style-guide.md)
