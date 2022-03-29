@@ -27,4 +27,4 @@ Your contribution starts with an idea, a question, or a problem identified (e.g.
 (TBD make an issue template.)
 * If you are filing a bug report, you can use the Issue template for that.
 
-For more information about filing good bug reports, 
+For more information about filing good bug reports, refer to [these quick tips](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html#_quick_tips_for_filing_issues).
