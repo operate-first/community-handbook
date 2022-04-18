@@ -1,0 +1,16 @@
+format: jb-book
+root: README.md
+parts:
+  - caption: Getting things done in the Op1st community
+    chapters:
+    - file: content/how-to-request-a-repository.md
+    - file: content/how-to-use-community-centric-labels.md
+    - file: content/how-to-use-o1-clone-tool.md
+    - file: https://github.com/operate-first/common/blob/main/docs/add_repo.md
+    - file: https://github.com/operate-first/common/blob/main/docs/add_gh_member_and_access.md
+  - caption: Contributing to the Community Handbook
+    chapters:
+    - file: contributing/beginners-get-started.md
+    - file: contributing/template-handbook-article.md
+    - file: contributing/style-guide.md
+    - file: contributing/handbook-reviewer-guidelines.md
