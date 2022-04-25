@@ -9,16 +9,16 @@ List of items needing a markup:
 ----
 # Op1st Technical Markup Style guide
 
-Use this style guide when you are writing content using MarkDown.
+Use this style guide when you are writing content using Markdown.
 This creates a consistent look and feel across the project content.
 
 The consistent look and feel helps readers feel confident about the content they are learning from.
 
-There is an additional benefit, which is the MarkDown source will be consistent for markup and technical terms.
+There is an additional benefit, which is the Markdown source will be consistent for markup and technical terms.
 This helps greatly when it comes to editing, where the markup can create errors or distract from errors.
 Having use for e.g. "`filenames` use backticks" means it is easier to perform automation and programmatic tasks on the content files.
 
-For example, efforts to convert these MarkDown files to other formats may be greatly helped by having the markup provide some context.
+For example, efforts to convert these Markdown files to other formats may be greatly helped by having the markup provide some context.
 That is, if double-undescores `__`
 
 ## Quick reference by Markup
