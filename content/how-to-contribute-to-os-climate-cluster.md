@@ -16,7 +16,7 @@ LINK TO https://github.com/operate-first/community-handbook#how-to-contribute or
 ### Special considerations for this document
 
 * Do not presume reader knowledge (e.g. about open source, climate science, GitHub, etc.)
-* 
+*
 
 ## Contribution process
 
